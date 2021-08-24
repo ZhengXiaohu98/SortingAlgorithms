@@ -4,7 +4,7 @@
 
 Submitted by: **Xiaohu Zheng**
 
-Time spent: **2** days spent in total
+Time spent: **1** day 
 
 ## About
   - Using chorno library to get the time spent for each sorting algorithms to sort on different size of array.
