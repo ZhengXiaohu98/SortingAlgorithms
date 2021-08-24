@@ -1,6 +1,6 @@
 # Sorting algorithms
 
-**Sorting algorithms** implemented 6 sorting algorithms including: insersion sort, merge sort, heap sort, quick sort, random quick sort, radix sort.
+**Sorting algorithms** implemented 6 sorting algorithms including: insertion sort, merge sort, heap sort, quick sort, random quick sort, radix sort.
 
 Submitted by: **Xiaohu Zheng**
 
